@@ -49,6 +49,10 @@ Both branches connect in parallel to the input binding posts. Crossover ≈ 2200
 
 Steps match the design prediction (about 1 dB per step, about 2,4 dB total). All three positions are usable, so no resistor changes were needed. Mark the switch plate A / B / C, or by character.
 
+The effect of PAD positions is illustrated below.
+
+![SPL diagram of three PAD modes](https://github.com/timoruohomaki/dynaudio-passive-conversion/blob/main/PAD%20AtoC.png)
+
 ### Polarity
 
 Both drivers in normal (marked) polarity. Confirmed by measurement: the summed response runs continuously through the 2200 Hz crossover region with no dip in any pad position. A reversed tweeter would show a deep null there, so no polarity-flip test was needed.
