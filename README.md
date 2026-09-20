@@ -94,6 +94,9 @@ For speaker 2: pair the 6,8 µF caps deliberately. Put the closest-matched pair 
 
 ## 7. Measurement setup (REW)
 
+> [!NOTE]
+> These measurements were taken in acoustically non-treated room which is less than ideal.
+
 Hardware: Focusrite Scarlett Solo, calibrated measurement mic, Mac, amplifier driving one speaker.
 
 - **Mic on the Solo's XLR input** with 48 V phantom. On this unit that is input 2 — only the XLR input has phantom. Air mode off, direct monitor off.
