@@ -62,7 +62,7 @@ Both drivers in normal (marked) polarity. Confirmed by measurement: the summed r
 | Position | Part | Nominal | Measured | Verdict |
 |---|---|---|---|---|
 | L1 woofer series | Jantzen 000-0027 air core, 14 AWG (1,6 mm) | 2,0 mH ±3%, DCR 0,363 Ω | 2,027 mH; ESR 0,341 Ω at 100 Hz (short-calibrated) | Accepted; within ±3% and under the 0,4 Ω DCR budget |
-| L2 tweeter shunt | Jantzen 000-1528 air core, 20 AWG | 0,25 mH | 0,2034 mH ±3%, DCR 0,3 Ω | Trimmed by removing 13 rounds |
+| L2 tweeter shunt | Jantzen 000-1528 air core, 20 AWG | 0,25 mH ±3%, DCR 0,3 Ω | 0,2034 mH | Trimmed by removing 13 rounds |
 | C1, C2 (6,8 µF) | Audyn MKP, older unused stock | 6,8 µF ±2%, 800 VDC | 6,841 µF; D = 0,000; ESR at meter floor (θ = −90,0°) | Accepted; film caps don't age on the shelf |
 | RC contour cap | Jantzen Standard Z-Cap | 1,0 µF, 400 VDC | Not logged | Least cap-sensitive position in the design |
 | Resistors | 10 W sand-cast/MOX: 2,2 / 8,2 / 10 / 15 / 18 Ω | — | Not logged | Series 8,2 Ω built as 15 ∥ 18 pair |
